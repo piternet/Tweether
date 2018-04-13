@@ -1,0 +1,15 @@
+.card {
+	min-width: 500px;
+	max-width: 5000px;
+	margin: 0 auto;
+}
+
+.card-body {
+	padding-bottom: 0;
+}
+
+.confirm-button {
+	margin: 10px 0 0 0;
+	padding: 0 inherit;
+	float: right;
+}
